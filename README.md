@@ -1,14 +1,14 @@
-E-commerce Automation Bot
+# E-commerce Automation Bot
 
 Project Description
 This project is a sample automation system for e-commerce workflow management designed to simplify the order processing pipeline for an online store. It is a basic infrastructure prototype that simulates key steps in handling and automatically updating order statuses. This solution can be customized and extended to meet the specific needs of clients, including integration with real shipping APIs.
 
 Developed in Python, this system offers the following features:
-
 Order Registration and Management: Capture new orders and update their statuses.
 Order Status Updates: Simulates an order’s journey through various statuses (e.g., "Processing", "Shipped", "Delivered").
 Tracking Number Generation: Creates simulated tracking numbers for orders.
 Customer Notifications: Simulates sending email and SMS notifications to update customers on their order status.
+
 Project Features
 Workflow Automation: Manages the entire order lifecycle by simulating transitions between different stages.
 Customer Notifications: Provides email and SMS updates to customers on their order status (simulated).
@@ -71,5 +71,5 @@ Enhanced Data Storage: Move from SQLite to a more robust database solution for p
 Additional Workflows: Extend the automation to include inventory management, returns processing, or other e-commerce workflows.
 
 
-License
+# License
 This project is open-source and licensed under the MIT License.
